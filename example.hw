@@ -1,5 +1,5 @@
 // imports
-import "js" "print" (a) -> i32
+// import "js" "print" (a) -> i32 not implemented yet, I'm sorry.
 
 // Simple add function
 fn add(a, b) -> i32 {
