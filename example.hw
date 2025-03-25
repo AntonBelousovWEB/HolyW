@@ -1,0 +1,8 @@
+// imports
+import "js" "print" (a) -> i32
+
+// Simple add function
+fn add(a, b) -> i32 {
+    print(12); 
+    return a + b;
+}
